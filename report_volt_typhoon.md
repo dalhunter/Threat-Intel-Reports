@@ -1,6 +1,6 @@
 # Threat Intelligence Report: Volt Typhoon
 
-#Executive Summary  
+**Executive Summary**
 The Volt Typhoon threat actor is a cyber-espionage group known for its sophisticated attacks targeting government and corporate networks. This report provides an in-depth analysis of the group's tactics, techniques, and procedures (TTPs) as well as recommendations for mitigation strategies.  
 
 # Introduction  
