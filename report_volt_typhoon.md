@@ -1,4 +1,4 @@
-#Threat Intelligence Report: Volt Typhoon
+Threat Intelligence Report: Volt Typhoon
 
                                                  Executive Summary
 
