@@ -8,7 +8,7 @@ The Volt Typhoon threat actor is a cyber-espionage group known for its sophistic
 
 As cyber threats continue to evolve, it is critical to understand the various actor profiles and their methodologies. Volt Typhoon is presumed to originate from [Country/Region], operating primarily against [Targets].  
 
-**Tactics, Techniques, and Procedures (TTPs)**
+                                    Tactics, Techniques, and Procedures (TTPs)
 
 Volt Typhoon employs several advanced techniques highlighted in the MITRE ATT&CK framework:
 - **Initial Access:** Spear phishing, leveraging carefully crafted emails that contain malicious links or attachments.
