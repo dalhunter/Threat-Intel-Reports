@@ -1,3 +1,3 @@
-         Intel-Reports
+Intel-Reports
 
 **Various Intelligence Products**
