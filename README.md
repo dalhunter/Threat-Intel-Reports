@@ -1,2 +1,2 @@
-# Intel-Reports
-Various Intelligence Products
+Intel-Reports
+**Various Intelligence Products**
