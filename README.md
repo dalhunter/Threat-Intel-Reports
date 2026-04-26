@@ -43,3 +43,7 @@ All findings are derived from:
 
 - No unauthorized access, private datasets, or proprietary intelligence is used.  
 - All information is evaluated for credibility, relevance, and corroboration across multiple sources prior to inclusion.
+
+## Reports
+
+- Lazarus Group — [View Report](reports/lazarus-group-report.pdf)
