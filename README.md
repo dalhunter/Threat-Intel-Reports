@@ -1,8 +1,8 @@
 # Overview of Reports
 
-These reports provide an analytical overview of various threat actors based on Open-Source Intelligence (OSINT), dark web intelligence sources, and publicly available reporting.
+- These reports provide an analytical overview of various threat actors based on Open-Source Intelligence (OSINT), dark web intelligence sources, and publicly available reporting.
 
-Each assessment consolidates observed activity into structured threat profiles designed to support deeper understanding of actor behavior, risk exposure, and operational patterns.
+- Each assessment consolidates observed activity into structured threat profiles designed to support deeper understanding of actor behavior, risk exposure, and operational patterns.
 
 # Scope of Analysis
 
