@@ -1,7 +1,7 @@
 ## Report Overview
 This repository showcases my ability to analyze and profile threat actors using OSINT, structured intelligence methodologies, and adversary behavior analysis.
 
-## Each report contains:
+## Each report includes:
 - **Section 1: Actor Background**
 - **Section 2: Targeting Patterns & Victimology** 
 - **Section 3: Tactics, Techniques, and Procedures (TTPs)**
