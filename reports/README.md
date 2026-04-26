@@ -23,14 +23,12 @@ The reports examine a range of intelligence dimensions, including:
 
 # Purpose
 The objective of these reports is to:
-
 - Consolidate fragmented intelligence into structured threat actor profiles  
 - Support understanding of cyber risk and adversary behavior  
 - Provide insight into observed malicious activity and operational trends  
 - Assist in security research, threat hunting, and intelligence analysis workflows  
 
 # Data Sources
-
 All findings are derived from:
 - Open-Source Intelligence (OSINT)  
 - Publicly available threat intelligence reporting  
@@ -38,6 +36,5 @@ All findings are derived from:
 - Security research publications and technical analyses  
 
 ## Notes
-
 - No unauthorized access, private datasets, or proprietary intelligence is used.  
 - All information is evaluated for credibility, relevance, and corroboration across multiple sources prior to inclusion.
