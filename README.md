@@ -1,3 +1,1 @@
-Intel-Reports
-
-**Various Intelligence Products**
+Various intel reports profiles
