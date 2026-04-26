@@ -1,9 +1,13 @@
-# <u>Overview of Reports</u>
+# Overview of Reports
+<u>Overview of Reports</u>
+
 These reports provide an analytical overview of various cyber threat actors based on Open-Source Intelligence (OSINT), dark web intelligence sources, and publicly available reporting.
 
 Each assessment consolidates observed activity into structured threat profiles designed to support deeper understanding of actor behavior, risk exposure, and operational patterns.
 
-# <u>Scope of Analysis</u>
+# Scope of Analysis
+<u>Scope of Analysis</u>
+
 These reports examine a range of intelligence dimensions, including the following sections:
 
 - **Section 1: Actor Background**  
@@ -21,7 +25,8 @@ These reports examine a range of intelligence dimensions, including the followin
 - **Section 5: Capability & Intent Assessment**  
   Evaluation of operational sophistication, resources, and likely objectives.
 
-# <u>Purpose</u>
+# Purpose
+<u>Purpose</u>
 
 The objective of these reports is to:
 - Consolidate fragmented intelligence into structured threat actor profiles  
@@ -29,7 +34,8 @@ The objective of these reports is to:
 - Provide insight into observed malicious activity and operational trends  
 - Assist in security research, threat hunting, and intelligence analysis workflows  
 
-# <u>Data Sources</u>
+# Data Sources
+<u>Data Sources</u>
 
 All findings are derived from:
 - Open-Source Intelligence (OSINT)  
@@ -37,7 +43,8 @@ All findings are derived from:
 - Dark web monitoring sources (where legally and ethically accessible)  
 - Security research publications and technical analyses  
 
-# <u>Notes</u>
+# Notes
+<u>Notes</u>
 
 - No unauthorized access, private datasets, or proprietary intelligence is used.  
 - All information is evaluated for credibility, relevance, and corroboration across multiple sources prior to inclusion.
