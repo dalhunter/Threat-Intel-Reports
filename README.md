@@ -4,8 +4,6 @@ These reports provide an analytical overview of various threat actors based on O
 
 Each assessment consolidates observed activity into structured threat profiles designed to support deeper understanding of actor behavior, risk exposure, and operational patterns.
 
----
-
 # Scope of Analysis
 
 These reports examine a range of intelligence dimensions, including the following sections:
@@ -24,8 +22,6 @@ These reports examine a range of intelligence dimensions, including the followin
 
 - **Section 5: Capability & Intent Assessment**  
   Evaluation of operational sophistication, resources, and likely objectives.
-
----
 
 # Purpose
 
