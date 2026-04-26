@@ -3,11 +3,11 @@ These reports provide an analytical overview of various threat actors based on O
 
 # Scope of Analysis
 Each report contains a standardized structure to ensure consistency across all threat actor assessments. The sections include:
-- **Section 1: Actor Background**  
-- **Section 2: Targeting Patterns & Victimology**  
-- **Section 3: Tactics, Techniques, and Procedures (TTPs)**  
-- **Section 4: Indicators of Compromise (IOCs)**  
-- **Section 5: Capability & Intent Assessment**  
+- **Section 1:** Actor Background  
+- **Section 2:** Targeting Patterns & Victimology  
+- **Section 3:** Tactics, Techniques, and Procedures (TTPs)
+- **Section 4:** Indicators of Compromise (IOCs)  
+- **Section 5:** Capability & Intent Assessment  
 
 ## Reports
 - Lazarus Group — [View Report](reports/lazarus-group-report.pdf)
