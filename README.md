@@ -8,5 +8,5 @@ This repository showcases my ability to analyze and profile threat actors using 
 - **Section 4: Indicators of Compromise (IOCs)**  
 - **Section 5: Capability & Intent Assessment** 
 
-## Reports
+## Reports 
 - Lazarus Group — [View Report](reports/lazarus-group-report.pdf)
