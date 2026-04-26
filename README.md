@@ -32,8 +32,6 @@ The objective of these reports is to:
 - Provide insight into observed malicious activity and operational trends  
 - Assist in security research, threat hunting, and intelligence analysis workflows  
 
----
-
 # Data Sources
 
 All findings are derived from:
@@ -42,8 +40,6 @@ All findings are derived from:
 - Publicly available threat intelligence reporting  
 - Dark web monitoring sources (where legally and ethically accessible)  
 - Security research publications and technical analyses  
-
----
 
 # Notes
 
