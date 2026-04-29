@@ -1,5 +1,5 @@
 ## Overview
-* This repository demonstrates threat actor analysis using OSINT, structured intelligence methods, and MITRE ATT&CK–based analysis.
+* This repository demonstrates threat actor analysis using structured intelligence methods, and MITRE ATT&CK–based analysis.
 * Reports are written in clear, accessible language for both educational and practical threat intelligence use.
 * When viewing the PDFs, please select "More Pages" to ensure the full report is visible.
 
