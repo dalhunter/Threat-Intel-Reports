@@ -1,6 +1,6 @@
 ## Executive Summary
 * This repository provides threat actor analysis through structured intelligence methods and various analytic techniques.
-* Reports are written in clear, accessible language for both educational and operational threat intelligence use.
+* Reports are written in clear, objective language designed to suppor threat intelligence workflows and decision-making.
 
 ## Report Structure
 * Section 1: Actor Background  
