@@ -11,4 +11,3 @@
 
 ## Intelligence Products
 * Lazarus Group — [View Report](reports/lazarus-group-report.pdf)
-Note: Some PDFs may require selecting “More Pages” in the viewer to display the full report.
