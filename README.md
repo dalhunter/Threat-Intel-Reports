@@ -3,7 +3,6 @@
 * Reports are written in clear, accessible language for both educational and operational threat intelligence use.
 
 ## Report Structure
-Each report includes:
 * Section 1: Actor Background  
 * Section 2: Targeting Patterns & Victimology  
 * Section 3: Tactics, Techniques, & Procedures (TTPs)  
