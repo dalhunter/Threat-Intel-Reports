@@ -9,5 +9,5 @@
 * Section 4: Indicators of Compromise (IOCs)  
 * Section 5: Analytic Assessment  
 
-## Reports
+## Intelligence Products
 * Lazarus Group — [View Report](reports/lazarus-group-report.pdf)
