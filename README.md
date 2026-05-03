@@ -1,9 +1,10 @@
-## Overview
+## Executive Summary
 * This repository provides threat actor analysis through structured intelligence methods and various analytic techniques.
 * Reports are written in clear, accessible language for both educational and operational threat intelligence use.
 * When viewing the PDFs, please select “More Pages” to ensure the full report is visible.
 
-## Each report includes:
+## Report Structure
+Each report includes:
 * Section 1: Actor Background  
 * Section 2: Targeting Patterns & Victimology  
 * Section 3: Tactics, Techniques, & Procedures (TTPs)  
